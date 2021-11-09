@@ -2,12 +2,10 @@
 
 [comment]: <> (# [![waylon walker header]&#40;https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png&#41;]&#40;https://waylonwalker.com&#41;)
 
-<h1 align="center">Hi 👋, I'm Farhan</h1>
-<h3 align="center">I'm a software engineer working on font-end and back-end development. I have a passion for new technology and love to create application for web, mobile and iot devices.</h3>
+<h1 align="left">Hi 👋, I'm Farhan</h1>
+<h3 align="left">I'm a software engineer working on font-end and back-end development. I have a passion for new technology and love to create application for web, mobile and iot devices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanswe&label=Profile%20views&color=0e75b6&style=flat" alt="farhanswe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanswe" alt="farhanswe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/farhanswe" target="blank"><img src="https://img.shields.io/twitter/follow/farhanswe?logo=twitter&style=for-the-badge" alt="farhanswe" /></a> </p>
 

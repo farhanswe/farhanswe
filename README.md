@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanswe)](https://github.com/farhanswe/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanswe" alt="farhanswe" /> </p>
+
+

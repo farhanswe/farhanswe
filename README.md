@@ -31,10 +31,10 @@ I care most about the parts of a system that are hard to retrofit — correctnes
 
 ## 🚀 Featured projects
 
-- **[Mess360](https://farhantanvir.com/portfolio/mess360)** — A multi-mess SaaS for Bangladeshi messes: daily meals, bazar, deposits and an automatic month-end meal rate and settlement that every member can see.
-- **[BanglaEmail](https://farhantanvir.com/portfolio/banglaemail)** — An email platform built around deliverability and correct handling of Bangla-language content across the full send and receive path.
+- **[Mess360](https://farhantanvir.com/portfolio/mess360)** — A multi-mess SaaS for Bangladeshi messes: daily meals, bazar, deposits and an automatic month-end meal rate and settlement that every member can see. 🔗 [mess360.com](https://mess360.com)
+- **[BanglaEmail](https://farhantanvir.com/portfolio/banglaemail)** — An email platform built around deliverability and correct handling of Bangla-language content across the full send and receive path. 🔗 [banglaemail.com](https://banglaemail.com)
 - **[Academic ERP](https://farhantanvir.com/portfolio/academic-erp-modernization)** — Re-architecting a long-running academic ERP into a modular, well-bounded platform that institutional teams can extend without regression.
-- **[ShohozParking](https://farhantanvir.com/portfolio/shohozparking)** — A parking availability and reservation platform where the hard problem is concurrency: never selling the same bay twice.
+- **[ShohozParking](https://farhantanvir.com/portfolio/shohozparking)** — A parking availability and reservation platform where the hard problem is concurrency: never selling the same bay twice. 🔗 [shohozparking.com](https://shohozparking.com)
 - **[Routine Management System](https://farhantanvir.com/portfolio/routine-management-system)** — Automated academic timetable generation that resolves teacher, room and batch constraints and makes remaining conflicts explicit instead of hiding them.
 - **[Exam Management System](https://farhantanvir.com/portfolio/exam-management-system)** — A high-integrity examination platform covering scheduling, seat planning, invigilation, script tracking, mark entry and controlled result publication.
 

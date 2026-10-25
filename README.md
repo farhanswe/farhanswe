@@ -31,6 +31,7 @@ I care most about the parts of a system that are hard to retrofit — correctnes
 
 ## 🚀 Featured projects
 
+- **[Mess360](https://farhantanvir.com/portfolio/mess360)** — A multi-mess SaaS for Bangladeshi messes: daily meals, bazar, deposits and an automatic month-end meal rate and settlement that every member can see.
 - **[Academic ERP](https://farhantanvir.com/portfolio/academic-erp-modernization)** — Re-architecting a long-running academic ERP into a modular, well-bounded platform that institutional teams can extend without regression.
 - **[ShohozParking](https://farhantanvir.com/portfolio/shohozparking)** — A parking availability and reservation platform where the hard problem is concurrency: never selling the same bay twice.
 - **[BanglaEmail](https://farhantanvir.com/portfolio/banglaemail)** — An email platform built around deliverability and correct handling of Bangla-language content across the full send and receive path.

@@ -2,8 +2,13 @@
 
 [comment]: <> (# [![waylon walker header]&#40;https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png&#41;]&#40;https://waylonwalker.com&#41;)
 
-# Hi 👋, I'm Farhan
-I'm a software engineer working on font-end and back-end development. I have a passion for new technology and love to create application for web, mobile and iot devices.
+# Hi 👋, I'm Farhan Tanvir
+
+Software Architect, Full-Stack Engineer and Technical Leader based in Bangladesh. I design and deliver enterprise platforms with Spring Boot, Angular and PostgreSQL — systems that stay maintainable years after launch.
+
+🌐 **Website:** [farhantanvir.com](https://farhantanvir.com)<br>
+✍️ **Articles:** [farhantanvir.com/blog](https://farhantanvir.com/blog)<br>
+💼 **Portfolio:** [farhantanvir.com/portfolio](https://farhantanvir.com/portfolio)
 
 [![Farhan Tanvir](https://img.shields.io/twitter/follow/farhanswe?logo=twitter&style=for-the-badge)](https://twitter.com/farhanswe)
 ![Farhan Tanvir](https://komarev.com/ghpvc/?username=farhanswe&label=Profile%20views&color=0e75b6&style=flat)
